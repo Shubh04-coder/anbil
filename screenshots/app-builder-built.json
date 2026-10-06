@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Acoustic Crop Shield",
+      "hasCanvas": true,
+      "bodyTextLen": 846,
+      "bodyTextHash": "0c60f3d7955c784346dcf23884f52c8463d8ea7cf8556ba59388bedf6256446a",
+      "bodyTextPrefix": "ACOUSTIC Crop Shield Field Acoustics Fleet Hardware 7/8 | 7:21 P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Acoustic Crop Shield",
+      "hasCanvas": true,
+      "bodyTextLen": 737,
+      "bodyTextHash": "03a1331ada52f451db58e20770ccd7c2444d5a7780acd244bb5ac2abde0a9c0f",
+      "bodyTextPrefix": "ACOUSTIC Crop Shield LISTENING FIELD Kolar Bend Block C · 4.6 ha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
